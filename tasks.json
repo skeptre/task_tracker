@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "description": "Test task",
+        "status": "todo",
+        "createdAt": "2026-05-10T18:00:00",
+        "updatedAt": "2026-05-10T18:00:00"
+    },
+    {
+        "id": "cf394573-1ccf-4446-a964-2f732099cd1e",
+        "description": "New task example",
+        "status": "todo",
+        "createdAt": "2026-05-10T19:03:03.304000",
+        "updatedAt": "2026-05-10T19:03:03.304020"
+    },
+    {
+        "id": "2a4aaf34-d4e7-4e4c-9338-609b3af5bdd0",
+        "description": "New task example",
+        "status": "todo",
+        "createdAt": "2026-05-10T19:03:13.206872",
+        "updatedAt": "2026-05-10T19:03:13.206882"
+    },
+    {
+        "id": "3dda73ae-3098-458a-b729-f13834adba63",
+        "description": "New task example",
+        "status": "todo",
+        "createdAt": "2026-05-10T19:05:37.427767",
+        "updatedAt": "2026-05-10T19:05:37.427783"
+    }
+]
