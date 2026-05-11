@@ -1,7 +1,6 @@
 import os
 import json
 import datetime
-import uuid
 
 
 TASKS_FILE = 'tasks.json'
@@ -44,7 +43,7 @@ def add_task(description):
         return
     
     new_task = {
-        "id": str(uuid.uuid4()),
+        "id": (get_next_id(tasks)),
         "description": description,
         "status": "todo",
         "createdAt": datetime.datetime.now().isoformat(),
